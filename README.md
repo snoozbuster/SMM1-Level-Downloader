@@ -6,8 +6,8 @@ To Decompile the Levels I used ASH Extractor which is already In this Repository
 http://wiibrew.org/wiki/ASH_Extractor
 
 # First time setup
-For the first time setup u need to install axios
-"npm install axios"
+For the first time setup u need to install packages
+"npm install" or "yarn install"
 
 # Usage
 To use this Properly u need to use this Spreadsheet or a Copy of it
